@@ -1,1 +1,1 @@
-export const echo = (str: string) => console.log(str);
+export const echo = (str: string) => console.log(`${str} there`);
